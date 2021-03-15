@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mangeshdamre
-- 👀 I’m interested in Computational Chemistry
+- 👀 I’m interested in Computational Chemistry research.
 - 🌱 I’m currently learning AI/DL/ML.
 - 💞️ I’m looking to collaborate on Computational Chemistry projects.
 - 📫 How to reach me? -> mangeshdamre@gmail.com
